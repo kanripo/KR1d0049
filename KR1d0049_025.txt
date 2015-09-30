@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集編
-#+DATE: 2015-09-23 09:37:55
-#+PROPERTY: JUAN 25
+#+DATE: 2015-08-24 22:09:44.724509
+#+PROPERTY: ID KR1d0049
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR1d0049_WYG_025-1a>¶
 欽定四庫全書¶
 　儀禮集編卷二十二¶
@@ -1874,4 +1876,3 @@
 　不宜云不降父母於子其正服但當期初非降服¶
 　¶
 　儀禮集編卷二十二¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮集編
-#+DATE: 2015-09-23 09:37:55
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:09:44.363245
+#+PROPERTY: ID KR1d0049
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1d0049_WYG_013-1a>¶
 欽定四庫全書¶
 　儀禮集編卷十¶
@@ -1446,4 +1448,3 @@
 　¶
 　¶
 　儀禮集編巻十¶
-
